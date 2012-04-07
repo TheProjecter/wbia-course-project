@@ -1,0 +1,13 @@
+#summary 2012-04-07：收集和学习Lucene的各种资料..
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+关于Lucence的相关资料:
+  * [http://blog.csdn.net/teamlet/article/details/5715187 一个最简单的Lucene例子]
+  * 
+  * 
