@@ -1,0 +1,25 @@
+#summary 2012-04-16：完成索引和搜索的工作
+
+= Introduction =
+
+环境配置情况：
+操作系统：ubuntu-11.10
+查询索引系统：lucene-3.5.0
+中文分词：IKAnalyzer2012_u4
+网页解析：HTMLParser-2.0
+
+
+= Details =
+==IK Analyzer==
+IK Analyzer是一个开源的，基于java语言开发的轻量级的中文分词工具包。在2012采用了特有的“正向迭代最细粒度切分算法“，支持细粒度和智能分词两种切分模式；
+
+如对“北京大学信息科学技术学院计算机系”切分：
+
+以传统切分方法结果为：
+
+以智能切分方法结果为：北京大学  信息科学  技术学院  计算机系
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
