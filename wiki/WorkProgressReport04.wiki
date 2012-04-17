@@ -4,10 +4,10 @@
 
 环境配置情况：
 
-* 操作系统：ubuntu-11.10
-* 查询索引系统：lucene-3.5.0
-* 中文分词：IKAnalyzer2012_u4
-* 网页解析：HTMLParser-2.0
+  * 操作系统：ubuntu-11.10
+  * 查询索引系统：lucene-3.5.0
+  * 中文分词：IKAnalyzer2012_u4
+  * 网页解析：HTMLParser-2.0
 
 
 = Details =
