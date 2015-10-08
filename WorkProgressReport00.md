@@ -1,0 +1,11 @@
+# Introduction #
+
+本次课程作业是一个项目的形式，所以觉得建立一个project主页要比blog更好一些，方便更新和team的合作，还可以练习wiki的写作。
+
+
+# Details #
+
+完成内容主要包括
+  * 建立项目主页：http://code.google.com/p/wbia-course-project
+  * 完成主页
+  * 定期更新该页作为项目进展汇报
